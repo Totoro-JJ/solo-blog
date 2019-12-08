@@ -10,9 +10,9 @@ Totoro 的个人博客
 
 ### 最新
 
-* [第一个vue项目](http://myhert.cn/articles/2019/11/30/1575082817052.html)
-* [我在 GitHub 上的开源项目](http://myhert.cn/my-github-repos)
-* [手把手教你整合最优雅的SSM框架](http://myhert.cn/articles/2019/11/07/1573135312909.html)
+* [第一个vue项目](http://myhert.cn/solo-v3.6.6/articles/2019/11/30/1575082817052.html)
+* [我在 GitHub 上的开源项目](http://myhert.cn/solo-v3.6.6/my-github-repos)
+* [手把手教你整合最优雅的SSM框架](http://myhert.cn/solo-v3.6.6/articles/2019/11/07/1573135312909.html)
 
 
 
